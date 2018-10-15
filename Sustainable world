@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class Stars{
+    public static void main(String[] args){
+        System.out.println("This is the calculator for distance");
+        Scanner ask = new Scanner(System.in);
+        System.out.println("What is the Parallax Angle?");
+        String input = ask.nextLine();
+        int ans = 3.26 / input;
+        System.out.println(int);
+    }
+}
